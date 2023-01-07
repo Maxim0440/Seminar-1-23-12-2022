@@ -41,6 +41,8 @@
 
 ## Разрешение конфликтов
 
+Более подробную инструкцию по разрешению конфликтов в Git можно найти по ссылке https://www.atlassian.com/ru/git/tutorials/using-branches/merge-conflicts
+
 
 ## Удаление веток
 
